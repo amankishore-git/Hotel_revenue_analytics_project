@@ -33,11 +33,5 @@ During the project, I translated business requirements into mathematical formula
 - **Booking Platforms:** "MakeYourTrip" and "LogTrip" perform differently in terms of realization percentage. Direct offline bookings have a noticeably different ADR compared to online travel agencies (OTAs).
 - **Room Categories:** Elite and Premium rooms contribute significantly to the revenue, but their occupancy heavily fluctuates during off-peak seasons.
 
-## 📸 Dashboard Snapshot
-*(Delete this text and drag & drop an image of your Power BI dashboard here)*
-
-## 🌐 Live Dashboard
-[Click here to interact with the Live Power BI Dashboard](PK)
-
 ## 🤝 Credits
 This project was completed as part of the End-to-End Data Analytics course provided by **Codebasics** (instructed by Dhaval Patel & Hemanand Vadivel).
