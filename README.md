@@ -37,7 +37,7 @@ During the project, I translated business requirements into mathematical formula
 *(Delete this text and drag & drop an image of your Power BI dashboard here)*
 
 ## 🌐 Live Dashboard
-[Click here to interact with the Live Power BI Dashboard](Insert_Your_NovyPro_or_PowerBI_Link_Here)
+[Click here to interact with the Live Power BI Dashboard](PK)
 
 ## 🤝 Credits
 This project was completed as part of the End-to-End Data Analytics course provided by **Codebasics** (instructed by Dhaval Patel & Hemanand Vadivel).
